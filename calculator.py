@@ -10,7 +10,7 @@ def calc():
 
     ops = {
         '1': ("Add", add),
-        '2': ("Subtract", sub),
+        '2': ("Minus", sub),
         '3': ("Multiply", mul),
         '4': ("Divide", div)
     }
